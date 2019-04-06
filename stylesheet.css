@@ -1,7 +1,7 @@
 /*stylesheet.css */
 
 body {
-	background: #6BB071;
+	background-color: grey;
 	/*background: darkgreen;*/
 	width: 100%;
 	height: 100%;
@@ -15,8 +15,8 @@ h1{
 	font-size: 50px;
 	font-family: 'Lobster';
 	text-align: center;
-	color: #b0d364;
-	background-color: #476f4d;
+	color: black;
+	background-color: darkred;
 }
 
 /* Page content */
@@ -41,7 +41,7 @@ h2 {
 	font-size: 32px;
 	font-family: 'Lobster', cursive;
 	text-align: center;
-	color: #b0d364;
+	color: whitesmoke;
 }
 h3 {
 	font-family: 'Lobster', cursive;
@@ -80,7 +80,7 @@ body{
 
 li a {
   display: block;
- color:  #b2dda5 ;
+ color:  grey;
   padding: 8px 16px;
   text-decoration: none;
 	font-family: Gotham;
@@ -89,7 +89,7 @@ li a {
 
 
 li a:hover {
-  background-color:#b0d364;
+  background-color:darkgreen;
   color: white;
 }
 
@@ -99,7 +99,7 @@ nav {
   padding-top: 100px;
   width: 18%;
 	opacity: 0.8;
-  background-color: #476f4d;
+  background-color: darkblue;
 	top: 0;
 	left: 0;
  
