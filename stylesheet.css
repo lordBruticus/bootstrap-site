@@ -1,7 +1,7 @@
 /*stylesheet.css */
 
 body {
-	background-color: grey;
+	background-color: white;
 	/*background: darkgreen;*/
 	width: 100%;
 	height: 100%;
@@ -15,7 +15,7 @@ h1{
 	font-size: 50px;
 	font-family: 'Lobster';
 	text-align: center;
-	color: black;
+	color: white;
 	background-color: darkred;
 }
 
@@ -41,7 +41,7 @@ h2 {
 	font-size: 32px;
 	font-family: 'Lobster', cursive;
 	text-align: center;
-	color: whitesmoke;
+	color: white;
 }
 h3 {
 	font-family: 'Lobster', cursive;
@@ -80,7 +80,7 @@ body{
 
 li a {
   display: block;
- color:  grey;
+ color:  white;
   padding: 8px 16px;
   text-decoration: none;
 	font-family: Gotham;
@@ -89,7 +89,7 @@ li a {
 
 
 li a:hover {
-  background-color:darkred;
+  background-color:indianred;
   color: white;
 }
 
@@ -176,10 +176,10 @@ overflow: hidden;
 }
 #jTitle {
 	text-align: center;
-	background: #DFFFC9;
+	background-color: indianred;
 	line-height: 55px;
-	border-bottom: #333300 double;
-	border-top: #333300 double;
+	border-bottom: #000000 double;
+	border-top: #000000 double;
 	color: black;
 }
 #rTitle {

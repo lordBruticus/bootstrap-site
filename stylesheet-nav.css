@@ -21,7 +21,7 @@
 
 li a {
   display: block;
-  color: #000;
+  color: black;
   padding: 8px 16px;
   text-decoration: none;
 	font-family: Gotham;
@@ -39,7 +39,7 @@ nav {
  /* margin-right: 100px;*/
   padding-top: 100px;
   width: 18%;
-  background-color: red;
+  background-color: darkred;
 	top: 0;
 	left: 0;
   opacity: 0.8;
