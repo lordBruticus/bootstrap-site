@@ -89,7 +89,7 @@ li a {
 
 
 li a:hover {
-  background-color:darkgreen;
+  background-color:darkred;
   color: white;
 }
 
@@ -99,7 +99,7 @@ nav {
   padding-top: 100px;
   width: 18%;
 	opacity: 0.8;
-  background-color: darkblue;
+  background-color: darkred;
 	top: 0;
 	left: 0;
  
